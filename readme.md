@@ -6,7 +6,7 @@ A modern React application that allows users to explore detailed information abo
 
 ## 🚀 Live Demo
 
-https://countryapi-app.netlify.app
+https://countryapireactapp.netlify.app
 
 ---
 
